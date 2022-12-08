@@ -14,7 +14,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <h1>My favourite songs</h1>
+  <h1>My favourite songs 🎶🎶🎶</h1>
 <ul>
   <li v-for="song in songs">{{song}}</li>
 </ul>
